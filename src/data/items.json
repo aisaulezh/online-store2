@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Embroidered Pillow",
+    "price": 29,
+    "imgUrl": "/images/1.webp",
+    "description": "With a vintage-inspired pattern, this Mila Blue Floral Lumbar Pillow brings an ornate charm to any space. Beautiful blues will add a pop of color to your sofa!\nPillow measures 20L x 14H in\nCrafted of cotton with polyester fill\nVintage floral pattern. Hues of blue and white\nMatching reverse zipper closure\nCare: Spot clean only.",
+
+
+    "rating": 3.5
+  },
+  {
+    "id": 2,
+    "name": "Distressed Wooden Knot",
+    "price": 55,
+    "imgUrl": "/images/2.webp",
+    "description": "Invite guests into your home with the refreshing beauty of this Welcome Pink Lavender Wreath. Its pretty pops of pink will look wonderful on your front door!\nWreath measures 24 in. in diameter\nCrafted of artificial materials\nArtificial lavender and greenery mix\nFeatures a wooden plaque that reads \"Welcome\"\nHues of pink, green, brown, and white\nComes ready for display\nCare: Dust with a soft, dry cloth.",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Metal Pillar Candle Runner",
+    "price": 48,
+    "imgUrl": "/images/3.webp",
+    "description": "Our Black Wood and Metal Pillar Candle Runner will make a stunning centerpiece for a console table. Crafted with an elevated base, it's sure to add a bit of modern flair.\nCandle runner measures 31L x 7W x 3.94H in.\nCrafted of wood and metal\nBlack finish\nElevated base\nAccommodates five (5) 3 in. pillar candles; candles sold separately\nCare: Dust with a soft, dry cloth.",
+    "rating": 3.5
+  },
+  {
+    "id": 4,
+    "name": "Black Striped Storage Bin",
+    "price": 37,
+    "imgUrl": "/images/4.webp",
+    "description": "Refresh your home by introducing some stylish storage. This Black and Tan Striped Jute Storage Bin will help your get organized and keep clutter at bay!\nBin measures 16.5L x 12.5W x 12.5H in.\nCrafted of jute and polyester\nHorizontal stripe design\nHues of black and tan\nFeatures two (2) handles\nCare: Dust with a soft, dry cloth.",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Antique Pitcher Vase",
+    "price": 79,
+    "imgUrl": "/images/5.webp",
+    "description": "Add an artisanal beauty to your home with this Antique Black Gourd Pitcher Vase. Its unique style will be a charming addition to any accent table or bookshelf!\nVase measures 10.8L x 9.25W x 10H in.\nCrafted of stoneware\nGourd pitcher shape\nAntique black finish with tan distressing\nFeatures a round handle\nFor decorative use only\nCare: Dust with a soft, dry cloth.",
+    "rating": 2.6
+  },
+  {
+    "id": 6,
+    "name": "Green Galvanized Piece",
+    "price": 63,
+    "imgUrl": "/images/6.webp",
+    "description": "You’ll love the rustic charm of this beautiful Green Eucalyptus Galvanized Centerpiece. This floral piece will look incredible on your dining room table!\nOverall centerpiece measures 36L x 8.5W x 12H in.\nContainer measures 29L x 8W x 2H in.\nCrafted of artificial materials\nArtificial eucalyptus arrangement\nBerry accents\nGalvanized base\nHues of green, cream, and silver\nFeatures three (3) glass hurricanes\nAccommodates three (3) 3 in. pillar candles; candles sold separately\nCare: Dust with a soft, dry cloth.",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "name": "White Tulip Wreath",
+    "price": 33,
+    "imgUrl": "/images/7.webp",
+    "description": "Add a fresh look to your front door with this lovely White Tulip Wreath! You'll love how its bright look adds character to your dining room table.\nWreath measures 26 in. in diameter\nCrafted of artificial materials\nArtificial tulip mix\nHues of green, white, and brown\nComes ready for wall mount; no additional hanging hardware required\nCare: Dust with a soft, dry cloth. Item may require reshaping after shipping.",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "name": "Matte Eggshell Vase",
+    "price": 60,
+    "imgUrl": "/images/8.webp",
+    "description": "Our Matte Eggshell Rotund Vase is the perfect combination of contemporary curves and simple style! You’ll love the way your bouquet looks in this terracotta piece.\nVase measures 11.2H x 11.2 in. in diameter\nCrafted of terracotta\nMatte ivory finish\nFeatures a rotund design\nWeight: 7.3 lbs.\nFor decorative use only\nCare: Wipe with soft, damp cloth. Not safe for outdoor use.",
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "name": "Adele Hand Knotted Pouf",
+    "price": 42,
+    "imgUrl": "/images/9.webp",
+    "description": "Kick your feet up in a timelessly stylish manner! Our Adele Neutral Hand Knotted Pouf features a classic woven design and earthy tones that’re perfect for your boho space.\nPouf measures 18L x 18W x 18H in.\nCover crafted of wool, cotton, and polyester\nFilled with polystyrene beads\nFeatures a hand knotted chevron design\nHues of ivory and gray\nCare: Spot clean or professional cleaning only.",
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "name": "Wide Ivory Pillar Candle",
+    "price": 18,
+    "imgUrl": "/images/10.webp",
+    "description": "Add variety to your gallery wall with this Aria Carved Medallion Wall Shelf. Its ornately carved design is a beautiful way to display your favorite decor!\nShelf measures 15.5L x 6W x 7H in.\nCrafted of wood and resin\nNatural top finish\nDistressed white base finish\nFeatures a carved medallion base\nHangs from back-mounted hardware\nCare: Dust with a soft, dry cloth.",
+    "rating": 3
+  },
+  {
+    "id": 11,
+    "name": "Harper Picture Frame",
+    "price": 22,
+    "imgUrl": "/images/11.webp",
+    "description": "Showcase any special moment with modern flair! Our Natural Grooved Harper Picture Frame is sure to incorporate rich texture and visual intrigue into any display.\nFrame measures 10.75L x 1.25W x 8.9H in.\nCrafted of wood and glass\nGolden oak finish\nGrooved design\nHolds one (1) 7x5 photo\nHorizontal orientation\nEasel back for tabletop display\nCare: Dust with a soft, dry cloth.",
+    "rating": 3.5
+  },
+  {
+    "id": 12,
+    "name": "Hyacinth Wall Plaques",
+    "price": 40,
+    "imgUrl": "/images/12.webp",
+    "description": "Create a striking focal point with the set of White Water Hyacinth Basket Wall Plaques! The natural, woven textures are accented with decorative patterns for a playful touch. This trio will perfectly blend with coastal and boho aesthetics.\nSet includes three (3) wall plaques\nLarge plaque measures 2.8W x 30H in. in diameter\nMedium plaque measures 2.4W x 26H in. in diameter\nSmall plaque measures 2W x 20H in. in diameter\nCrafted of 85% water hyacinth and 15% polyester\nNatural finish\nWoven designs\nAccented with decorative patterns\nHues of tan and white\nRound shape\nWeight: 4 lbs.\nHangs from back-mounted hardware\nCare: Dust with a soft, dry cloth.",
+    "rating": 5
+  },
+  {
+    "id": 13,
+    "name": "Adele Hand Knotted Pouf",
+    "price": 35,
+    "imgUrl": "/images/13.webp",
+    "description": "Cozy up in style with our Pink Leopard Cloud Throw! This throw is perfect for bringing a touch of pattern to your space. You'll love the luxurious feel and chic look!\nThrow measures 50L x 60H in.\nCrafted of 100% polyester\nLeopard print pattern\nHues of pink and white\nReversible design with inverted color\nCare: Hand wash in cold water separately. Do not bleach. Lay flat to dry. Do not iron.",
+    "rating": 4
+  },
+  {
+    "id": 14,
+    "name": "Wide Ivory Pillar Candle",
+    "price": 89,
+    "imgUrl": "/images/14.webp",
+    "description": "The Black Metal Wire Twist Lantern will incorporate a modern twist into any display! Its sleek design is perfect for displaying pillar candles alongside farmhouse or industrial décor.\nLarge lantern measures 8L x 8W x 20H in.\nCrafted of metal\nOpen frame\nTwisted top\nBlack finish\nAccommodates one (1) pillar candle; candle sold separately\nCare: Dust with a soft, dry cloth.",
+    "rating": 3.8
+  },
+  {
+    "id": 15,
+    "name": "Harper Picture Frame",
+    "price": 27,
+    "imgUrl": "/images/15.webp",
+    "description": "Invite guests into your home with the refreshing beauty of this Welcome Pink Lavender Wreath. Its pretty pops of pink will look wonderful on your front door!\nWreath measures 24 in. in diameter\nCrafted of artificial materials\nArtificial lavender and greenery mix\nFeatures a wooden plaque that reads \"Welcome\"\nHues of pink, green, brown, and white\nComes ready for display\nCare: Dust with a soft, dry cloth.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Hyacinth Wall Plaques",
+    "price": 43,
+    "imgUrl": "/images/16.jpeg",
+    "description": "Our Seagrass Woven Tray will bring a bit of natural flair to your home decor. Whether you’re organizing bathroom decor or coffee table accessories, the possibilities are endless!\nTray measures 28L x 26W x 3.1H in.\nCrafted of seagrass and an iron frame\nNatural finish\nWoven design\nFor decorative use only\nCare: Dust with a soft, dry cloth.",
+    "rating": 4.5
+  }
+]
